@@ -1,0 +1,6 @@
+../Core/Src/softwaretimer.c:11:6:SetTimer	1
+../Core/Src/softwaretimer.c:17:6:RunTimer	4
+../Core/Src/softwaretimer.c:29:6:InitAllFlag	2
+../Core/Src/softwaretimer.c:36:6:InitFlag	1
+../Core/Src/softwaretimer.c:41:6:UnInitAllFlag	2
+../Core/Src/softwaretimer.c:48:6:UnInitFlag	1
